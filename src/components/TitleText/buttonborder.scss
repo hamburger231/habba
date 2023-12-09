@@ -1,0 +1,48 @@
+@import "../../assets/styles/theme";
+
+#button1 {
+    border-radius: 10px;
+    font-size: 100%;
+    background-color: rgb(83, 83, 83);
+    border-color: rgb(83, 83, 83);;
+    color: white
+    
+}
+
+#button3 {
+    border-radius: 10px;
+    font-size: 100%;
+    background-color: rgb(83, 83, 83);
+    border-color: rgb(83, 83, 83);;
+    color: white
+}
+
+
+
+
+#hotdog {
+
+    justify-content:space-evenly;
+    display: grid;
+    padding-bottom: 3%;
+    
+    
+}
+#hotdog1 {
+    border: "2px solid"; 
+    padding: '20px';
+    border-radius: "12px";
+}
+#hotdog3 {
+    border: "2px solid";
+    padding: '40px';
+    border-radius: "12px";
+    border-color:rgb(83, 83, 83);
+}
+
+#lista {
+    border: 2px solid;
+    padding: 10px;
+    border-color: green;
+    list-style-type: none;
+}
