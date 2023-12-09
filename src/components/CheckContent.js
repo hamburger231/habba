@@ -1,4 +1,3 @@
-import '../components/TitleText/buttonborder.scss';
 
 import React, {useState} from "react"
 

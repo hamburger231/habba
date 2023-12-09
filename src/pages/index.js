@@ -1,12 +1,12 @@
 import '../components/TitleText/TitleText.module.scss';
-import '../components/TitleText/buttonborder.scss';
+import '../components/buttonborder.scss';
 
 import React from 'react';
 
+import { TitleHeader } from '../components/AppHeader' ;
 import { Baton } from '../components/CheckContent';
-import { TitleHeader } from '../components/TitleText/AppHeader' ;
-import { Counter } from '../components/TitleText/counter';
-import { DynamicList } from '../components/TitleText/dynamiclist';
+import { Counter } from '../components/counter';
+import { DynamicList } from '../components/DynamicList';
 import { TitleText } from '../components/TitleText/TitleText';
 
 const IndexPage = () => (
